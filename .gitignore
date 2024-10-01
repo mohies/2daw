@@ -1,3 +1,5 @@
-myvenv/
 
-#noses
+#esto se ignora porque esto funciona en el local del ordenador que estas currando
+myvenv/
+db.sqlite3
+__pycache__
